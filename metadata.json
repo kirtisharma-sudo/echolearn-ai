@@ -1,0 +1,7 @@
+{
+  "name": "EchoLearn- AI study companion",
+  "description": "An AI-powered oral coach that analyzes your speech patterns, grammar, and clarity to provide instant feedback and personalized quizzes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
