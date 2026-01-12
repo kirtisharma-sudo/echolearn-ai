@@ -9,7 +9,7 @@ This app is created using AI Studio
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1TAyV7CmGFBnv-CkqVJT0063jDdPQfZIs
+View my app in AI Studio: https://ai.studio/apps/drive/1TAyV7CmGFBnv-CkqVJT0063jDdPQfZIs
 
 ## Run Locally
 
