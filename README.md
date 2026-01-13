@@ -1,4 +1,4 @@
-EchoLearn AI 🚀
+🚀 EchoLearn AI 
 
 EchoLearn AI is an AI-powered learning assistant built using Google AI Studio (Gemini). The app helps users learn more effectively through intelligent, interactive AI responses.
 
