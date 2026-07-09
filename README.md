@@ -92,11 +92,9 @@ The project explores how **Google Gemini** can be used to enhance education thro
 
 # 🚀 Live Project
 
-### 🔗 Google AI Studio
-
 View the original AI Studio project here:
 
-**https://ai.studio/apps/drive/1TAyV7CmGFBnv-CkqVJT0063jDdPQfZIs**
+**https://echolearn-ai-study-companion-543148713228.asia-southeast1.run.app/**
 
 ---
 
