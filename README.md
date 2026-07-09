@@ -177,9 +177,7 @@ as an environment variable.
 <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/a6202340-ef5f-4aef-9682-06b6ac69d28a" />
 <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/59977bbf-f72b-4407-a3c7-15ebb54a8274" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52024d51-af0e-4377-8186-57182f580ca8" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/027f37fb-3677-4735-acb5-f403f213a8fd" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b727035-eaa1-465a-a0a6-8b554c887912" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/413449e0-6542-4954-8aeb-06a878d0ace6" />
+
 
 
 
